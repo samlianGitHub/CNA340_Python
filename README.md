@@ -1,9 +1,6 @@
-# Import the turtle module
+# The turtle module
 
-In this project name call turtle lab i need to extract the following python code and write comments explaining the steps, and et andy and lance initial distance to 0. 
- Use the variables andyTotalDistance and the appropriate location, you can add additional comments.Make a random distance for andy to move
-use a cascading set of conditions to determine the winner. Make a random distance for lance to move, import the turtle module and import the random module. Create a third turtle object called start that will be used to display the winner of the game. 
-use a cascading set of if conditions to determine the winner. 
+   In this project name call turtle lab i need to extract the following python code and write comments explaining the steps, and et andy and lance initial distance to 0. Use the variables andyTotalDistance and the appropriate location, you can add additional comments.Make a random distance for andy to move. Use a cascading set of conditions to determine the winner. Make a random distance for lance to move, import the turtle module and import the random module. Create a third turtle object called start that will be used to display the winner of the game. use a cascading set of if conditions to determine the winner. 
 
 
 ## Getting Started
@@ -46,8 +43,7 @@ import the random module
 reate a screen
 label the screen
 
-lance = turtle.Turtle()     #create two turtles
-andy = turtle.Turtle()      #create two turtles
+create two turtles
 Oiterate through the loop to run the forward method on both turtles 150 times
 this section is to determine the winner of the game and be used to print who the winner is.  It calculates total distance for lance and for andy.
 Add any additional ways to run the program below
@@ -57,7 +53,8 @@ use a cascading set of if conditions to determine the winner below.
 import turtle               
 import random
 ```
-
+lance = turtle.Turtle()     
+andy = turtle.Turtle()
 
 
 ```
